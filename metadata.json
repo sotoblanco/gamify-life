@@ -1,0 +1,5 @@
+{
+  "name": "TaskQuest RPG",
+  "description": "An application that transforms your daily tasks into exciting RPG quests. Input a task, receive a story-driven quest from a unique character, and earn points for completing them.",
+  "requestFramePermissions": []
+}
